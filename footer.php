@@ -3,7 +3,7 @@
          <p class="text-muted credit">
             <font color = "darkblue" size="2">
             Hecho por Paul Paredes<br />
-            Copyright&copy; 2020<br />
+            Copyright&copy; 2022<br />
             </font>
          </p>
      </div>
