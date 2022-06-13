@@ -1,4 +1,6 @@
 <!--Paul Paredes!>
+
+<!--Verificación de pico y placa -->
 <?php
 require('funciones.php');
 
