@@ -1,6 +1,6 @@
 <!--Paul Paredes -->
 <?php
-//Genera el html para presentar los días de la semana en un combobox
+//Funciones para generar el html que presentan los días de la semana en un combobox
 function generarDia(){
     $dia = ['Lunes', 'Martes','Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo'] ;
     $html = '<select id="cbDia" name="dia">';
