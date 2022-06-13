@@ -1,4 +1,5 @@
 <!--Paul Paredes-->
+<!--Página de inicio -->
 <?php
 include('funciones.php');
 
