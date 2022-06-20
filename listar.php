@@ -49,7 +49,7 @@ $digitoNo = [[1, 2], [3, 4], [5, 6], [7,8], [9,0]];
                     </tr>
                     <tr>
                         <td colspan="2">Los horarios en los que se aplica el pico y placa son los siguientes:
-                             Hours: 7:00am - 9:30am / 16:00pm - 19:30pm de acuerdo al día</td>
+                             Hours: 6:00am - 9:30am / 16:00pm - 21:00pm de acuerdo al día</td>
                     </tr>
                 </table>
                 <input type="button" name="btnRegresar" value="Regresar" onClick ="javascript:location.href='index.php';">
